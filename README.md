@@ -77,6 +77,8 @@ python amazontitan.py
 
 The generated image will be saved in the `generated_images` directory as `output.png`.
 
+![Generated Image](generated_images/output.png)
+
 ## Configuration
 
 You can modify the prompt and other parameters in the respective scripts to customize the text and image generation.
