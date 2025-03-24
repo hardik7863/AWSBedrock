@@ -1,0 +1,3 @@
+boto3
+awscli
+# python==3.10
