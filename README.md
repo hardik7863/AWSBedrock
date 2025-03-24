@@ -20,7 +20,7 @@ generated_images/
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/hardik7863/AWSBedrock.git
     cd your-repo-name
     ```
 
